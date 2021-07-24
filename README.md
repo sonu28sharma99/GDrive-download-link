@@ -2,4 +2,4 @@
 How to get direct download link of GDrive 
 
 
-![Getting direct download link](imgage.jpg)
+![Getting direct download link](Screenshot (165).jpg)
